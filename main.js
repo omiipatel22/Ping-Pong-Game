@@ -163,3 +163,7 @@ function paddleInCanvas(){
     mouseY =0;
   }  
 }
+
+function restart() {
+  
+}
